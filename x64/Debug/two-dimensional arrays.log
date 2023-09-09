@@ -1,0 +1,3 @@
+﻿  two-dimensional arrays.cpp
+C:\Users\ADMIN\Desktop\Tho\C++\two-dimensional arrays\two-dimensional arrays.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  two-dimensional arrays.vcxproj -> C:\Users\ADMIN\Desktop\Tho\C++\two-dimensional arrays\x64\Debug\two-dimensional arrays.exe
